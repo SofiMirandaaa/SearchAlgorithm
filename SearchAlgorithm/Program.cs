@@ -24,6 +24,7 @@ namespace SearchAlgorithm
                 else
                     Console.WriteLine("\n Array should have minimum  1 and maximum 20 elements.\n");
             }
+            //Accept array elements
         }
     }
 }
