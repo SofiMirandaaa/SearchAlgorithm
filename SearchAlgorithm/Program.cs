@@ -52,6 +52,8 @@ namespace SearchAlgorithm
                 //obtain the index of the elements in the array
                 int mid = (lowerbound + upperbound) / 2;
                 int ctr = 1;
+
+                //loop to search for the elements in the array
             }
         }
     }
