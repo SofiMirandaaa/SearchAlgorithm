@@ -77,4 +77,9 @@ namespace SearchAlgorithm
             while ((ch == 'y') || (ch == 'Y'));
         }
     }
+    public void LinearSearch()
+    {
+        char
+    }
+    
 }
