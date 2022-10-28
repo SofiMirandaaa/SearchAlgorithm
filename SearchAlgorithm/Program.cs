@@ -106,6 +106,22 @@ namespace SearchAlgorithm
             while ((ch == 'y') || (ch == 'Y'));
 
         }
+        static void Main(string[]args)
+        {
+            Program myList = new Program();
+            int pilihanmu;
+            char ch;
+
+            Console.WriteLine("Menu Option ");
+            Console.WriteLine("=========== ");
+            Console.WriteLine("1. Linear Search");
+            Console.WriteLine("2. Binary Search");
+            Console.WriteLine("3. Exit");
+            Console.WriteLine("Enter your choice (1,2,3 : ");
+            pilihanmu = Convert.ToInt32(Console.ReadLine());
+            
+
+        }
     }
     
     
