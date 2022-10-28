@@ -38,7 +38,11 @@ namespace SearchAlgorithm
         }
         public void BinarySearch()
         {
-            
+            char ch;
+            do
+            {
+                
+            }
         }
     }
 }
