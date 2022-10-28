@@ -42,6 +42,8 @@ namespace SearchAlgorithm
             do
             {
                 //Accept the number to be searched
+                Console.Write("\nEnter element want you to search: ");
+                int item = Convert.ToInt32(Console.ReadLine());
             }
         }
     }
