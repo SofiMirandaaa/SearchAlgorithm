@@ -41,7 +41,7 @@ namespace SearchAlgorithm
             char ch;
             do
             {
-                
+                //Accept the number to be searched
             }
         }
     }
