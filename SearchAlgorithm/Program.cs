@@ -14,7 +14,10 @@ namespace SearchAlgorithm
 
         public void input ()
         {
+            while (true)
+            {
 
+            }
         }
     }
 }
